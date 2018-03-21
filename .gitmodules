@@ -1,0 +1,3 @@
+[submodule "submodule/weChat"]
+	path = submodule/weChat
+	url = git@github.com:hyzhen1231/weiChat.git
